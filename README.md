@@ -1,9 +1,10 @@
 # Automatic-Lottery
 Lottery in Visual Basic
 
-I developed in Visual Basic
-Project in group of 3 people
-The objective is to make a program of a simulation of a lottery
-The program had a code generator
-The lottery program when going up you could play maximum 5 dollars and by giving it play the program started running and 
-also had an exit and an about that the version told you a description and those who developed the program.
+Desarrollé en Visual Basic
+Proyecto en grupo de 3 personas
+El objetivo era hacer un programa de una simulación de una lotería
+El programa tenía un auto generador de código 
+El programa de lotería al subir podías jugar máximo 5 dólares y al darle play comenzaba a ejecutarse el programa y 
+también tenía un exit y un about que te decía la versión una descripción y los que desarrollaron el programa.
+
