@@ -1,5 +1,5 @@
 # Automatic-Lottery
-Lottery in Visual Basic
+Lottery en Visual Basic
 
 Desarrollé en Visual Basic
 Proyecto en grupo de 3 personas
